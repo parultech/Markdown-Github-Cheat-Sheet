@@ -72,9 +72,9 @@ ___
 ```
 
 <!-- Tables -->
-| Name     | Email                |
-| -------- | -------------------- |
-| Parul    | parulgupta@gmail.com |
+| Name     | Email                   |
+| -------- | ----------------------- |
+| Parul    | parulguptaweb@gmail.com |
 
 <!-- Task List -->
 * [x] Woke up
