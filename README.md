@@ -72,8 +72,8 @@ ___
 ```
 
 <!-- Tables -->
-| Name     | Email          |
-| -------- | -------------      - |
+| Name     | Email                |
+| -------- | -------------------- |
 | Parul    | parulgupta@gmail.com |
 
 <!-- Task List -->
