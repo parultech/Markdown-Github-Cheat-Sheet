@@ -77,7 +77,6 @@ ___
 | Parul    | parulgupta@gmail.com |
 
 <!-- Task List -->
-* [x] Task 1
-* [x] Task 2
-* [ ] Task 3<!-- Headings -->
-
+* [x] Woke up
+* [x] Breakfast
+* [ ] Shower
